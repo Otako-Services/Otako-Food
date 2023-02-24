@@ -4,10 +4,10 @@ author 'Otako's Services'
 
 client_scripts {
     'config.lua',
-    'client/main.lua'
+    'client.lua'
 }
 
 server_scripts {
     'config.lua',
-    'server/main.lua'
+    'server.lua'
 }
